@@ -1,0 +1,10 @@
+{
+  "name": "swc-loader-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.28.2",
+    "webpack-cli": "3.0"
+  }
+}
